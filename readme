@@ -1,7 +1,7 @@
 	
 	Nintendo Entertainment System (NES) debugger module
 	------------------------------------------------------
-	Copyright 2006, Dennis Elser (dennis@backtrace.de)
+	Copyright 2006, Dennis Elser
 
 
   Please note that this debugger is the client part for a
@@ -27,4 +27,4 @@
    developed yet. the idea is to integrate the remote debugger (which is the
    server for the IDA plugin) into an NES emulator like FCEUSP.
    
-   Copyright 2006, Dennis Elser (dennis@backtrace.de)
+   Copyright 2006, Dennis Elser
